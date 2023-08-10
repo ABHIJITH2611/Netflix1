@@ -211,7 +211,7 @@ nav button:hover{
 
 
 
-@media only screen and (max-width:900px){
+@media (min-width:250px) and (max-width:900px){
     .logo{
         width: 100px;
     }
